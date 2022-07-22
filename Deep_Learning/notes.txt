@@ -1,0 +1,5 @@
+Neural Netwoks foundation
+	perception - Takes a set of inputs, sums them up, and pass them through a
+		    function. That funtion determaines what to send and what level
+    	epoch - one pass through training data 
+    	
